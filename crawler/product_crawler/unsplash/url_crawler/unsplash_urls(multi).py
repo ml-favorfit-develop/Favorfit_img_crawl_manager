@@ -42,7 +42,7 @@ class get_sel_img():
         self.scrolling(max_imgs)
         eles = self.driver.find_elements(By.XPATH, "//figure[@itemprop='image']")
         
-        with open(f"./outputs/unsplash_tag_url_8000/{self.search_word}.json", mode="w", encoding="utf-8") as w:
+        with open(f"./output/unsplash_tag_url_8000/{self.search_word}.json", mode="w", encoding="utf-8") as w:
             w.write("[")
             eles_length = len(eles) -1
             for idx, cur in enumerate(eles):
@@ -60,7 +60,7 @@ class get_sel_img():
 
     
     def write_json(self, dict_list):
-        with open(f"./outputs/unsplash_tag_url_8000/{self.search_word}.json", mode="w", encoding="utf-8") as w:
+        with open(f"./output/unsplash_tag_url_8000/{self.search_word}.json", mode="w", encoding="utf-8") as w:
             json.dump(dict_list, w, ensure_ascii=False, indent=4)
         print(f"{self.search_word} is done!")
         return True
