@@ -1,0 +1,875 @@
+{
+    "clothing": [
+        "clothing",
+        "clothing rack",
+        "clothes",
+        "mens clothing",
+        "clothe",
+        "clothing store",
+        "cloth"
+    ],
+    "cosmetics": [
+        "cosmetics",
+        "cosmetic",
+        "activism",
+        "mathematics",
+        "mathematic",
+        "chocolates",
+        "optician"
+    ],
+    "food": [
+        "food",
+        "mood",
+        "wood",
+        "hood",
+        "fast food",
+        "foody",
+        "foot"
+    ],
+    "living essentials": [
+        "essential",
+        "essential oil",
+        "financial services",
+        "living room interior design",
+        "relationships",
+        "digital marketing services",
+        "clean living"
+    ],
+    "interior": [
+        "interior",
+        "interior wall",
+        "interior decoration",
+        "castle interior",
+        "minimal interior",
+        "interior decor",
+        "design interior"
+    ],
+    "electronics": [
+        "electronic",
+        "electrical",
+        "electronic chip",
+        "electric",
+        "electricity",
+        "Electronic products",
+        "electric car"
+    ],
+    "hobbies": [
+        "hobby",
+        "zombies",
+        "lobby",
+        "hoodies",
+        "hotel lobby",
+        "rubbish",
+        "handbag"
+    ],
+    "casual": [
+        "ritual",
+        "bisexual",
+        "sexuality",
+        "asexual",
+        "visualization",
+        "sushi restaurant",
+        "sensual"
+    ],
+    "suits": [
+        "suit",
+        "suitcase",
+        "men suit",
+        "fruits",
+        "swimsuit",
+        "suisse",
+        "biscuit"
+    ],
+    "underwear": [
+        "underwear",
+        "underwear man",
+        "underwear men",
+        "woman underwear",
+        "underwater",
+        "menswear",
+        "underwater world"
+    ],
+    "shoes": [
+        "shoes",
+        "shoe",
+        "sneakers shoe",
+        "sales",
+        "running shoes",
+        "shoes fashion",
+        "shop"
+    ],
+    "accessories": [
+        "accessory",
+        "travel accessory",
+        "accessoire",
+        "processor",
+        "doctors practice",
+        "financial services",
+        "accounting services"
+    ],
+    "bags": [
+        "bag",
+        "handbag",
+        "fog",
+        "flags",
+        "tag",
+        "dogs",
+        "braga"
+    ],
+    "children's clothing": [
+        "children playing",
+        "children study",
+        "parents and children",
+        "school children",
+        "christmas background",
+        "boyd's forest dragon",
+        "child playing"
+    ],
+    "men's cosmetics": [
+        "cosmetics",
+        "cosmetic",
+        "sparkles aesthetic",
+        "chrismas tree",
+        "christmas decoration",
+        "alzheimer's disease",
+        "iceland landscape"
+    ],
+    "skincare": [
+        "skincare",
+        "skin care",
+        "skin fade",
+        "skin face",
+        "skatepark",
+        "face skin",
+        "skin"
+    ],
+    "makeup": [
+        "makeup",
+        "makeup brush",
+        "travel makeup",
+        "makeup artist",
+        "takeoff",
+        "pasta making",
+        "make up"
+    ],
+    "hair products": [
+        "dairy products",
+        "products",
+        "makeup products",
+        "cleaning products",
+        "film production",
+        "makeup product",
+        "tech product"
+    ],
+    "body products": [
+        "dairy products",
+        "products",
+        "beauty products",
+        "cleaning products",
+        "makeup products",
+        "beauty product",
+        "film production"
+    ],
+    "perfume": [
+        "perfume",
+        "perform",
+        "performer",
+        "refugees",
+        "fume",
+        "surface",
+        "profile"
+    ],
+    "hair removal": [
+        "avatar movie",
+        "raze solar",
+        "salvador",
+        "labrador retriever",
+        "hair salon",
+        "relax my cat",
+        "royal mail"
+    ],
+    "meat": [
+        "meat",
+        "seat",
+        "heat",
+        "raw meat",
+        "vegan-meat",
+        "meal",
+        "sliceed meat"
+    ],
+    "seafood": [
+        "seafood",
+        "sexyfood",
+        "food",
+        "superfood",
+        "barefoot",
+        "mood",
+        "instafood"
+    ],
+    "grains": [
+        "grain",
+        "grain fed",
+        "brain",
+        "train",
+        "graphs",
+        "training",
+        "graph"
+    ],
+    "fruit": [
+        "fruit",
+        "fruits",
+        "dry fruit",
+        "fruit tree",
+        "ripe fruit",
+        "green fruit",
+        "ugly fruit"
+    ],
+    "spices": [
+        "spices",
+        "spice",
+        "spicejet",
+        "spicy",
+        "spacex",
+        "spaceship",
+        "choices"
+    ],
+    "beverages": [
+        "beverage",
+        "package delivery",
+        "servers",
+        "teenagers",
+        "best friends forever",
+        "beige wallpaper",
+        "teenager boy"
+    ],
+    "processed foods": [
+        "food presentation",
+        "processor",
+        "plate of food",
+        "process",
+        "foodporn",
+        "project clothe",
+        "preserved flower"
+    ],
+    "medicine": [
+        "medicine",
+        "herbal medicine",
+        "medical",
+        "medication",
+        "medic",
+        "holistic medicine",
+        "medicinal"
+    ],
+    "health foods": [
+        "health food",
+        "healthy food",
+        "good health",
+        "health plan",
+        "health coach",
+        "health",
+        "health care"
+    ],
+    "kitchenware": [
+        "kitchenware",
+        "kitchen",
+        "kitchen sink",
+        "kitchen cabinets",
+        "kitchen table",
+        "restaurant kitchen",
+        "gelsenkirchener straße"
+    ],
+    "necessities": [
+        "financial services",
+        "croissants",
+        "scissor",
+        "television",
+        "communications",
+        "professor",
+        "united states president"
+    ],
+    "cleaning supplies": [
+        "art supplies",
+        "spring cleaning",
+        "supply chain",
+        "cleaning",
+        "supply",
+        "supplement",
+        "simple wallpaper"
+    ],
+    "bathroom supplies": [
+        "bathroom sink",
+        "art supplies",
+        "bathroom",
+        "bathroom design",
+        "bathroom towel",
+        "bathroom storage",
+        "simple background"
+    ],
+    "writing implements": [
+        "empire state building",
+        "employees working",
+        "web development agency",
+        "web development services",
+        "writing",
+        "abstract painting",
+        "amplifier"
+    ],
+    "office": [
+        "office",
+        "officer",
+        "office worker",
+        "office space",
+        "post office",
+        "office chair",
+        "office cleaning"
+    ],
+    "furniture": [
+        "furniture",
+        "patio furniture",
+        "furniture wood",
+        "garden furniture",
+        "wood furniture",
+        "outdoor furniture",
+        "furniture design"
+    ],
+    "lighting": [
+        "lighting",
+        "fighting",
+        "lightning",
+        "landing",
+        "light",
+        "lighter",
+        "led light"
+    ],
+    "decorative items": [
+        "home decoration",
+        "decoration",
+        "interior decoration",
+        "item",
+        "practice islam",
+        "christmas decoration",
+        "activism"
+    ],
+    "home appliances": [
+        "appliance",
+        "job application",
+        "apprenticeship",
+        "web development services",
+        "application",
+        "apple headphone",
+        "apple product"
+    ],
+    "mobile": [
+        "mobile",
+        "mobile game",
+        "mobile gaming",
+        "mobile wallpaper",
+        "mobile phone",
+        "wallpaper for mobile",
+        "smile"
+    ],
+    "camera": [
+        "camera",
+        "red camera",
+        "camera len",
+        "camera lens",
+        "canon camera",
+        "sony camera",
+        "film camera"
+    ],
+    "computer": [
+        "computer",
+        "old computer",
+        "tablet computer",
+        "computer virus",
+        "computer screen",
+        "computer hardware",
+        "computer game"
+    ],
+    "games": [
+        "games",
+        "game",
+        "gaming",
+        "gamers",
+        "name",
+        "cat game",
+        "board games"
+    ],
+    "peripherals": [
+        "photographieculinaire",
+        "cathedral",
+        "gypsophila mirror candle romance",
+        "photographeculinaire",
+        "milan cathedral",
+        "racial empathy",
+        "psychotherapy"
+    ],
+    "sports": [
+        "sports",
+        "sport",
+        "sports car",
+        "sport car",
+        "reports",
+        "sportcar",
+        "sportscar"
+    ],
+    "toys": [
+        "toys",
+        "toy",
+        "boys",
+        "toys kids",
+        "toy story",
+        "toy car",
+        "kids toy"
+    ],
+    "cars": [
+        "cars",
+        "car",
+        "caring",
+        "cards",
+        "care",
+        "bar",
+        "cats"
+    ],
+    "water leisure": [
+        "water lake",
+        "water texture",
+        "nature and human life",
+        "leisure activity",
+        "bewater",
+        "leather texture",
+        "website layout"
+    ],
+    "tools": [
+        "tools",
+        "wool",
+        "hand tool",
+        "toadstool",
+        "pool",
+        "spool",
+        "toolbox"
+    ],
+    "musical instruments": [
+        "musical instrument",
+        "instrument",
+        "medical insurance",
+        "medical administration",
+        "music production",
+        "digital marketing services",
+        "diversity and inclusion"
+    ],
+    "books": [
+        "books",
+        "book",
+        "comic book",
+        "old books",
+        "bookstore",
+        "holy book",
+        "book cover"
+    ],
+    "clothing casual": [
+        "clothing",
+        "clothing model",
+        "clothing rack",
+        "clothes",
+        "mens clothing",
+        "clothing store",
+        "vintage clothes"
+    ],
+    "clothing suits": [
+        "clothing store",
+        "clothing",
+        "mens clothing",
+        "clothing rack",
+        "clothes store",
+        "clothes shop",
+        "clothes"
+    ],
+    "clothing underwear": [
+        "woman underwear",
+        "underwear",
+        "underwear man",
+        "clothing store",
+        "underwater world",
+        "underwater",
+        "underwear men"
+    ],
+    "clothing shoes": [
+        "clothes shop",
+        "clothing store",
+        "clothing rack",
+        "clothing",
+        "clothes store",
+        "mens clothing",
+        "clothes"
+    ],
+    "clothing accessories": [
+        "accessory",
+        "travel accessory",
+        "protective clothing",
+        "accounting services",
+        "cleaning services",
+        "clothing",
+        "clothing store"
+    ],
+    "clothing bags": [
+        "clothing",
+        "clothing rack",
+        "clothing store",
+        "mens clothing",
+        "clothing model",
+        "boxing gloves",
+        "food packaging"
+    ],
+    "clothing children's clothing": [
+        "clothing",
+        "clothing rack",
+        "clothing store",
+        "clothing model",
+        "mens clothing",
+        "clothe",
+        "children playing"
+    ],
+    "cosmetics men's cosmetics": [
+        "cosmetics",
+        "cosmetic",
+        "sparkles aesthetic",
+        "mathematics",
+        "activism",
+        "christmas decoration",
+        "chrismas tree"
+    ],
+    "cosmetics skincare": [
+        "cosmetics",
+        "cosmetic",
+        "skincare",
+        "sparkles aesthetic",
+        "aesthetic desktop wallpaper",
+        "cityscape",
+        "landscape"
+    ],
+    "cosmetics makeup": [
+        "cosmetics",
+        "cosmetic",
+        "sparkles aesthetic",
+        "makeup artist",
+        "makeup products",
+        "aesthetic desktop wallpaper",
+        "mathematics"
+    ],
+    "cosmetics hair products": [
+        "cosmetics",
+        "dairy products",
+        "florida solar contractor",
+        "aesthetic desktop wallpaper",
+        "makeup products",
+        "sparkles aesthetic",
+        "croissants"
+    ],
+    "cosmetics body products": [
+        "cosmetics",
+        "dairy products",
+        "makeup products",
+        "products",
+        "florida solar contractor",
+        "doctors practice",
+        "cleaning products"
+    ],
+    "cosmetics perfume": [
+        "cosmetics",
+        "cosmetic",
+        "photos artistique",
+        "sparkles aesthetic",
+        "arm exercise",
+        "mathematics",
+        "deportistum"
+    ],
+    "cosmetics hair removal": [
+        "cosmetics",
+        "aesthetic desktop wallpaper",
+        "islamic calendar",
+        "art movement/pre-raphaelite",
+        "florida solar contractor",
+        "scandinavian interior",
+        "cosmetic"
+    ],
+    "food meat": [
+        "food market",
+        "food court",
+        "feel good",
+        "food factory",
+        "wood floor",
+        "food",
+        "mood"
+    ],
+    "food seafood": [
+        "food",
+        "seafood",
+        "dog food",
+        "wood floor",
+        "foodlover",
+        "raw food",
+        "foody"
+    ],
+    "food grains": [
+        "food court",
+        "food packaging",
+        "grain fed",
+        "wood floor",
+        "dried food",
+        "food styling",
+        "food and drink"
+    ],
+    "food fruit": [
+        "fruit",
+        "green fruit",
+        "ugly fruit",
+        "fruit tree",
+        "fish food",
+        "fast food",
+        "food factory"
+    ],
+    "food spices": [
+        "spicy food",
+        "spanish food",
+        "spices",
+        "mexican food",
+        "spice",
+        "sexyfood",
+        "swiss pocket knife"
+    ],
+    "food beverages": [
+        "beverage",
+        "food delivery",
+        "foodlover",
+        "delivery food",
+        "food packaging",
+        "flowers lover",
+        "foodstyling"
+    ],
+    "food processed foods": [
+        "foodporn",
+        "food",
+        "food packaging",
+        "fast food",
+        "food court",
+        "dried food",
+        "plate of food"
+    ],
+    "food medicine": [
+        "medicine",
+        "herbal medicine",
+        "mexican food",
+        "holistic medicine",
+        "chinese medicine",
+        "spicy food",
+        "medicine chest"
+    ],
+    "food health foods": [
+        "health food",
+        "healthy food",
+        "good health",
+        "food",
+        "wood floor",
+        "foodporn",
+        "whole food"
+    ],
+    "living essentials kitchenware": [
+        "kitchenware",
+        "restaurant kitchen",
+        "kitchen cabinets",
+        "kennedy space center visitor complex",
+        "living room interior design",
+        "kitchen design",
+        "female software engineer"
+    ],
+    "living essentials necessities": [
+        "financial services",
+        "united states president",
+        "essential oil",
+        "kennedy space center visitor complex",
+        "essential",
+        "digital marketing services",
+        "meditation landscape"
+    ],
+    "living essentials cleaning supplies": [
+        "kennedy space center visitor complex",
+        "clean living",
+        "living room interior design",
+        "cleaning services",
+        "spinal column treatment",
+        "cleaning service",
+        "plumbing services"
+    ],
+    "living essentials bathroom supplies": [
+        "kennedy space center visitor complex",
+        "bathroom design",
+        "living room interior design",
+        "field hockey and lacrosse complex",
+        "mental health awareness",
+        "patterns and textures",
+        "west bandung regency"
+    ],
+    "living essentials writing implements": [
+        "employees working",
+        "plumbing services",
+        "living room interior design",
+        "impressionist",
+        "sports equipment",
+        "financial services",
+        "united arab emirates"
+    ],
+    "interior office": [
+        "cafe interior",
+        "interior",
+        "home interior",
+        "hotel interior",
+        "interior wall",
+        "minimal interior",
+        "interior design"
+    ],
+    "interior furniture": [
+        "patio furniture",
+        "outdoor furniture",
+        "garden furniture",
+        "furniture",
+        "sustainable furniture",
+        "furniture design",
+        "office furniture"
+    ],
+    "interior lighting": [
+        "interior wall",
+        "interior",
+        "bedroom interior",
+        "living room interior design",
+        "hotel interior",
+        "minimal interior",
+        "modern interior"
+    ],
+    "interior decorative items": [
+        "interior decoration",
+        "interior design",
+        "interior decor",
+        "home decoration",
+        "design interior",
+        "decoration",
+        "minimalist interior"
+    ],
+    "electronics home appliances": [
+        "electric transmission tower",
+        "Electronic products",
+        "electric transport",
+        "electrician working",
+        "electronic chip",
+        "electrical device",
+        "abstract purple"
+    ],
+    "electronics mobile": [
+        "electronic chip",
+        "electronic",
+        "electrician working",
+        "electrical device",
+        "Electronic products",
+        "electrical",
+        "electricity"
+    ],
+    "electronics camera": [
+        "electronic chip",
+        "electronic",
+        "electric guitar",
+        "electrician",
+        "electrical",
+        "electric car",
+        "electrical device"
+    ],
+    "electronics computer": [
+        "electronic chip",
+        "electronic",
+        "Electronic products",
+        "electrical device",
+        "electric transport",
+        "electrical engineering",
+        "electrician working"
+    ],
+    "electronics games": [
+        "electronic chip",
+        "electronic",
+        "electrician working",
+        "Electronic products",
+        "electric guitar",
+        "electrical device",
+        "electricity"
+    ],
+    "electronics peripherals": [
+        "Electronic products",
+        "electronic chip",
+        "electronic",
+        "electric transport",
+        "electrician",
+        "electrical device",
+        "electrician working"
+    ],
+    "hobbies sports": [
+        "sports coach",
+        "sports",
+        "sports car",
+        "sports car wallpaper",
+        "sports coach trainer",
+        "sportscar",
+        "sports wallpaper"
+    ],
+    "hobbies toys": [
+        "hoodies",
+        "baby toys",
+        "toys",
+        "toys kids",
+        "handmade toy",
+        "boys",
+        "handsome boy"
+    ],
+    "hobbies cars": [
+        "hobby",
+        "hoodies",
+        "cars wallpapers",
+        "zombies",
+        "cannabis light",
+        "rubbish",
+        "billboards"
+    ],
+    "hobbies water leisure": [
+        "nature and human life",
+        "tingey injury law firm",
+        "field hockey and lacrosse complex",
+        "staffordshire bull terrier",
+        "website layout",
+        "abortion is healthcare",
+        "nature landscape"
+    ],
+    "hobbies tools": [
+        "hoodies",
+        "tools",
+        "zombies",
+        "hand tool",
+        "billboards",
+        "hotel lobby",
+        "balloons"
+    ],
+    "hobbies musical instruments": [
+        "musical instrument",
+        "digital marketing services",
+        "minimalism in the apartment",
+        "plumbing services",
+        "united arab emirates",
+        "lowfidelity heavy industry",
+        "meditation landscape"
+    ],
+    "hobbies books": [
+        "library books",
+        "old books",
+        "books",
+        "holy book",
+        "macbook",
+        "old book",
+        "comic book"
+    ]
+}

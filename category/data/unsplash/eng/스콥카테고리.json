@@ -1,0 +1,9 @@
+{
+    "Clothing": ["Casual", "Suits", "Underwear", "Shoes", "Accessories", "Bags", "Children's Clothing"],
+    "Cosmetics": ["Men's Cosmetics", "Skincare", "Makeup", "Hair Products", "Body Products", "Perfume", "Hair Removal"],
+    "Food": ["Meat", "Seafood", "Grains", "Fruit", "Spices", "Beverages", "Processed Foods", "Medicine", "Health Foods"],
+    "Living Essentials": ["Kitchenware", "Necessities", "Cleaning Supplies", "Bathroom Supplies", "Writing Implements"],
+    "Interior": ["Office", "Furniture", "Lighting", "Decorative Items"],
+    "Electronics": ["Home Appliances", "Mobile", "Camera", "Computer", "Games", "Peripherals"],
+    "Hobbies": ["Sports", "Toys", "Cars", "Water Leisure", "Tools", "Musical Instruments", "Books"]
+}
