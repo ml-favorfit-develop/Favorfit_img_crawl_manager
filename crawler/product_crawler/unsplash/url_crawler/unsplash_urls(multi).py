@@ -9,7 +9,8 @@ from selenium.webdriver.chrome.options import Options
 
 
 with open("./target_tags.json", encoding="utf-8", mode="r") as f:
-    search_words = list(json.load(f))
+    search_words = [(key, value) for key, value in json.load(f).items()]
+
 
 base_url = "https://unsplash.com/s/photos/"
 Null_url = "https://unsplash.com/plus?referrer=%2Fphotos%2Ffr7sfo99PB8"
