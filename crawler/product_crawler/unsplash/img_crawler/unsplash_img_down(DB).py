@@ -62,7 +62,7 @@ def get_img_hash_and_ext(url):
 
 
 def save_file(url, file_name):
-
+    
     try:
         hash_value, ext = get_img_hash_and_ext(url)
         field_dict = extract_DBField_from_path(file_name)
@@ -81,7 +81,7 @@ def save_file(url, file_name):
 
         try:
             collection.insert_one(document)
-            wget.download(url, file_name)
+            wget.download(url, os.path.split(file_name)[0] + field_dict["file_name"])
             
         except errors.DuplicateKeyError as e:
             doc = collection.update_one({'hash': hash_value}, {'$push': {'tag': field_dict["tag"]}})
@@ -156,16 +156,16 @@ def split_list(lst, n):
 if __name__ == "__main__":
 
 
-    num_processes = 16
+    num_processes = 8
     num_threads = 2
     start_time = time.time()
 
-    url_jsonfile_path = "./outputs/unsplash_tag_url_8000/"
+    url_jsonfile_path = "../url_crawler/output/unsplash_tag_url_8000/"
     file_list = os.listdir(url_jsonfile_path)
 
     continue_skip = True
     # continue_skip = False
-    last_category = "pharmacy.json"
+    last_category = "presentation.json"
     
     for file in file_list:
         if continue_skip:
@@ -228,5 +228,5 @@ if __name__ == "__main__":
         print("failed num : ", fail_count,"/",total_count, f" {round(fail_count/total_count*100, 2)}%", "thum num : ", thum_count, "real num : ", real_count, "dupl num : ", dupl_count)
         print("------------------------------------------------------------------------------------")
 
-        with open('monitoring_0622.txt', mode='a', encoding="utf-8") as f:
+        with open('monitoring_0706.txt', mode='a', encoding="utf-8") as f:
             f.write(f'{file},{total_count},{fail_count},{round(fail_count/total_count*100, 2)}%,{elapsed_time},{thum_count},{real_count},{dupl_count}\n')
