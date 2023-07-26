@@ -1,6 +1,5 @@
 import os
 import json
-import csv
 import time
 import requests
 import concurrent.futures
@@ -81,7 +80,7 @@ def save_file(url, file_name):
 
         try:
             collection.insert_one(document)
-            wget.download(url, os.path.split(file_name)[0] + field_dict["file_name"])
+            wget.download(url, os.path.join(os.path.split(file_name)[0], field_dict["file_name"]))
             
         except errors.DuplicateKeyError as e:
             doc = collection.update_one({'hash': hash_value}, {'$push': {'tag': field_dict["tag"]}})
@@ -131,8 +130,8 @@ def download_img(img_tuple, path, file_name):
 
     
 def get_path(category):
-    direcotr_name = re.split('[<>]', category)
-    path_list = [re.sub(f'[\\/:\*\?"<>|\s]', '', cur) for cur in direcotr_name]
+    directory_name = re.split('[<>]', category)
+    path_list = [re.sub(f'[\\/:\*\?"<>|\s]', '', cur) for cur in directory_name]
 
     result = "/"
     for cur in path_list: result += cur + "/"
@@ -155,7 +154,6 @@ def split_list(lst, n):
 
 if __name__ == "__main__":
 
-
     num_processes = 8
     num_threads = 2
     start_time = time.time()
@@ -165,7 +163,7 @@ if __name__ == "__main__":
 
     continue_skip = True
     # continue_skip = False
-    last_category = "presentation.json"
+    last_category = "gents clothing.json"
     
     for file in file_list:
         if continue_skip:
@@ -228,5 +226,5 @@ if __name__ == "__main__":
         print("failed num : ", fail_count,"/",total_count, f" {round(fail_count/total_count*100, 2)}%", "thum num : ", thum_count, "real num : ", real_count, "dupl num : ", dupl_count)
         print("------------------------------------------------------------------------------------")
 
-        with open('monitoring_0706.txt', mode='a', encoding="utf-8") as f:
+        with open('monitoring_0719.txt', mode='a', encoding="utf-8") as f:
             f.write(f'{file},{total_count},{fail_count},{round(fail_count/total_count*100, 2)}%,{elapsed_time},{thum_count},{real_count},{dupl_count}\n')
