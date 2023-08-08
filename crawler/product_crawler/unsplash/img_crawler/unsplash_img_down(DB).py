@@ -11,7 +11,7 @@ import threading
 from pymongo import MongoClient, errors
 
 lock = threading.Lock()
-base_path = os.path.dirname("/media/mlfavorfit/sda/product_img/")
+base_path = os.path.dirname("/media/mlfavorfit/sda/product_img/") # if need real image in specific tag
 fail_count = 0
 
 
@@ -79,10 +79,11 @@ def save_file(url, file_name):
         }
 
         try:
-            collection.insert_one(document)
+            collection.insert_one(document) # if need real image in specific tag
             wget.download(url, os.path.join(os.path.split(file_name)[0], field_dict["file_name"]))
             
         except errors.DuplicateKeyError as e:
+            # return "ERROR" # if need real image in specifit tag
             doc = collection.update_one({'hash': hash_value}, {'$push': {'tag': field_dict["tag"]}})
             
             if doc.raw_result["updatedExisting"]:
@@ -115,6 +116,7 @@ def download_img(img_tuple, path, file_name):
     elif real_status == "DUPLE":
         return 3
     elif real_status == "ERROR":
+        # return 0 # if need real image in specifit tag
         pass
     
     thum_status = save_file(thum_url, path + file_name)
